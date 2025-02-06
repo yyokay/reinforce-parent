@@ -9,7 +9,7 @@
     <version>1.0.1</version>
 
     <packaging>pom</packaging>
-    <name>AI-AGI-BUZ</name>
+    <name>AI-AGI</name>
     <modules>
         <module>reinforce-share-parent</module>
         <module>reinforce-bin-parent</module>
